@@ -11,6 +11,7 @@
 
 
 ## INFORMATION
+Time to enjoy WFH the right!
 
 
 ## Contributors ✨

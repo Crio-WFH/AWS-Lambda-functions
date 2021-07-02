@@ -10,7 +10,7 @@
 
 
 
-\<!-- Place holder for briefing the event details with links where ever required. -->
+\<!-- The guidelines to upload the projects are same inside every repository. Kindly go through the process carefully to merge your code. -->
 
 Kindly refer the [getting started guide](https://docs.google.com/document/d/1z5cJHJkuhkMkWyAPTD7seIzH04MhD0dwNkEC6BvQwFk/edit) for detailed instructions.
 
